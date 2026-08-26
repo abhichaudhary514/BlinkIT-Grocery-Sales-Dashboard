@@ -92,7 +92,7 @@ Item-level transactional data with the following fields:
 
 I'm a BCA student pursuing a Data Analytics course alongside my degree, building a portfolio of Power BI and SQL projects as I work toward a Data Analyst role. Feedback and suggestions are always welcome!
 
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/abhimanyu-chaudhary-63249138b)
+📫 Connect with me on LinkedIn (www.linkedin.com/in/abhimanyu-chaudhary-63249138b)
 
 ---
 
